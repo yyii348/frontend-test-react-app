@@ -1,0 +1,24 @@
+.shop-cart {
+    justify-content: center; 
+}
+
+.Cart-details {
+    justify-content: start; 
+    display: flex;
+}
+
+.Shopping-cart {
+    color: #888888;
+    display: flexbox;
+    flex-direction: row;
+    align-items: center;
+    text-align: left;
+}
+
+.Shopping-cart p {
+    color: black;
+}
+
+.item-title {
+    font-size: large;
+}

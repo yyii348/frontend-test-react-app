@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+}
+
+.Item-content {
+  width: 100%;
+  display: flex;
+  justify-content: center; 
+}
